@@ -1,8 +1,1 @@
-Fluent:Notify({
-        Title = "Script",
-        Content = "Soon function and game😄",
-        SubContent = "SubContent", -- Optional
-        Duration = 5 -- Set to nil to make the notification not disappear
-    })
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/cakein228/Phantom/refs/heads/main/PhantomHub.txt"))()
