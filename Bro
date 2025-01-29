@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/cakein228/Phantom/refs/heads/main/PhantomHub.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cakein228/Phantom/refs/heads/main/MM2"))()
